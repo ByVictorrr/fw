@@ -6,4 +6,6 @@ precedence over words earlier. (That is, sort first on numbers, then on the word
 order, but we’re printing “bigger” things first so the words will wind up in reverse alphabetical
 order.)
 ## Usage
+make
+
 ./fw [-n num] [ file1 [ file 2 ...] ]
