@@ -1,4 +1,4 @@
-# fw
+# fw - frequency word
 ## Description
 This program return a sorted list of the n most common words in a file or set of
 files, sorted by order of frequency. In the case of a frequency tie, words later in the alphabet take
